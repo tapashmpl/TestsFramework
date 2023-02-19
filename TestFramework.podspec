@@ -2,7 +2,7 @@ Pod::Spec.new do |s|
   s.name         = 'TestFramework'
   s.version      = '0.1.0'
   s.license      = "MIT"
-  s.platform = :iOS, "10.0" 
+  s.platform = :iOS, "11.0" 
   s.homepage     = 'https://github.com/tapashmpl/TestsFramework'
   s.authors      = { 'Tapash Mollick' => 'tapashmollick@mplgaming.com' }
   s.summary      = "It's random number generator for integer"
