@@ -63,3 +63,4 @@ xcodebuild archive -scheme TestFramework -destination="iOS Simulator" -archivePa
 
 
 xcodebuild -create-xcframework -framework /tmp/xcf/ios.xcarchive/Products/Library/Frameworks/TestFramework.framework -framework /tmp/xcf/iossimulator.xcarchive/Products/Library/Frameworks/TestFramework.framework -output TestFramework.xcframework
+# TapashsTestsFramework
