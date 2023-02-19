@@ -38,8 +38,8 @@ command to run if program contains helper info
 
 Contributors names and contact info
 
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
+ex. Tapash Mollick  
+ex. [@tapashmpl](https://github.com/tapashmpl)
 
 ## Version History
 
@@ -51,7 +51,7 @@ ex. [@DomPizzie](https://twitter.com/dompizzie)
 
 ## License
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+This project is licensed under the [TestFramework] License - see the LICENSE.md file for details
 
 ## Acknowledgments
 
