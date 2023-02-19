@@ -1,0 +1,77 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "TestFramework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "RandomNumberGenerator",
+        "printedName": "RandomNumberGenerator",
+        "children": [
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "RandomNumberGenerator",
+                "printedName": "TestFramework.RandomNumberGenerator",
+                "usr": "s:13TestFramework21RandomNumberGeneratorC"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:13TestFramework21RandomNumberGeneratorCACycfc",
+            "mangledName": "$s13TestFramework21RandomNumberGeneratorCACycfc",
+            "moduleName": "TestFramework",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "getRandomNumber",
+            "printedName": "getRandomNumber()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:13TestFramework21RandomNumberGeneratorC03getcD0SiyF",
+            "mangledName": "$s13TestFramework21RandomNumberGeneratorC03getcD0SiyF",
+            "moduleName": "TestFramework",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:13TestFramework21RandomNumberGeneratorC",
+        "mangledName": "$s13TestFramework21RandomNumberGeneratorC",
+        "moduleName": "TestFramework",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": []
+}
